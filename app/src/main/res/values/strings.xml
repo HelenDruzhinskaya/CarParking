@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Автопаркинг</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="in">Заехать</string>
+    <string name="out">Выехать</string>
+    <string name="reg">Долгосрочная стоянка</string>
+    <string name="client_name">Имя владельца</string>
+    <string name="regnum">Номер автомобиля</string>
+    <string name="regdate">Дата регистрации</string>
+    <string name="mark">Марка автомобиля</string>
+    <string name="place">Парковочное место</string>
+</resources>
